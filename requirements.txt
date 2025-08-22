@@ -1,0 +1,6 @@
+streamlit==1.37.1
+pandas==2.2.2
+requests==2.32.3
+xlsxwriter==3.2.0
+pdfminer.six==20240706
+docx2txt==0.8
